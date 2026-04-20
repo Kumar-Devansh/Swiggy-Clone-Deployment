@@ -72,7 +72,8 @@ terraform apply -auto-approve
 
 📸 Screenshot
 
-![Terraform Apply](screenshots/terraform-apply.png)
+![Terraform Apply](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2872b3f7-a6f4-469a-b4c8-aa267f650fcd" />
+)
 
 ---
 
@@ -99,7 +100,8 @@ chmod +x install.sh
 
 📸 Screenshot
 
-![Jenkins Installation](screenshots/jenkins-install.png)
+![Jenkins Installation](<img width="815" height="397" alt="image" src="https://github.com/user-attachments/assets/89253141-30b1-4f87-af08-3d832a5c1771" />
+)
 
 ---
 
