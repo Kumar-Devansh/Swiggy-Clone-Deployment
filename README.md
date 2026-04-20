@@ -8,11 +8,12 @@ Infrastructure is provisioned using **Terraform**, CI/CD pipeline is managed usi
 
 # 🚀 Project Architecture
 
-Add your architecture diagram here.
 
-![Architecture Diagram](screenshots/architecture.png)
+<img width="2816" height="1536" alt="Gemini_Generated_Image_muewsbmuewsbmuew" src="https://github.com/user-attachments/assets/702f0c5f-293f-4361-8eeb-d3ade579c8eb" />
 
----
+```Bash
+Architecture Diagram
+```
 
 # 🧰 Tech Stack
 
@@ -72,8 +73,11 @@ terraform apply -auto-approve
 
 📸 Screenshot
 
-![Terraform Apply](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2872b3f7-a6f4-469a-b4c8-aa267f650fcd" />
-)
+<img width="1920" height="1080" alt="Screenshot (623)" src="https://github.com/user-attachments/assets/36565676-a7dd-4a88-ae09-90194c0b7392" />
+
+```bash
+Terraform apply 
+```
 
 ---
 
@@ -100,8 +104,11 @@ chmod +x install.sh
 
 📸 Screenshot
 
-![Jenkins Installation](<img width="815" height="397" alt="image" src="https://github.com/user-attachments/assets/89253141-30b1-4f87-af08-3d832a5c1771" />
-)
+<img width="815" height="397" alt="Screenshot 2026-04-21 012034" src="https://github.com/user-attachments/assets/bc3b13c2-96a4-4949-8db6-ffa421c641cd" />
+
+```bash
+Jenkinsfile Script
+```
 
 ---
 
@@ -136,9 +143,6 @@ docker --version
 ```
 
 📸 Screenshot
-
-![Docker Installed](screenshots/docker-installed.png)
-
 ---
 
 # ⚙ Jenkins Installation
@@ -193,7 +197,12 @@ http://<EC2-Public-IP>:8080
 
 📸 Screenshot
 
-![Jenkins Dashboard](screenshots/jenkins-dashboard.png)
+<img width="1375" height="843" alt="image" src="https://github.com/user-attachments/assets/f1da283f-2ee7-468b-8d3a-244f140f833b" />
+
+```bash
+Jenkins Status
+```
+
 
 ---
 
@@ -227,7 +236,12 @@ http://<EC2-Public-IP>:9000
 
 📸 Screenshot
 
-![SonarQube Dashboard](screenshots/sonarqube-dashboard.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba68c77e-4507-491e-800a-015b6cbc85da" />
+
+```bash
+SonarQube DashBoard
+```
+
 
 ---
 
@@ -355,8 +369,11 @@ kubectl get svc
 
 📸 Screenshot
 
-![Kubernetes Nodes](screenshots/k8s-nodes.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45ecb7d7-8351-480b-a4e4-30d0ce474b63" />
 
+```bash
+Kubernetes Nodes
+```
 ---
 
 # 🚀 CI/CD Pipeline Flow
@@ -373,7 +390,17 @@ kubectl get svc
 
 📸 Screenshot
 
-![Jenkins Pipeline](screenshots/jenkins-pipeline.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16d60c12-b799-452f-a378-e3e88aa950c6" />
+
+```Bash
+CICD PIPELINE
+```
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad821b7b-7bad-417a-a76c-be3756fbeb3f" />
+
+```Bash
+Application Is Running
+```
 
 ---
 
