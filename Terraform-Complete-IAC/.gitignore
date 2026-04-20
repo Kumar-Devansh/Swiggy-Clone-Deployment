@@ -1,0 +1,50 @@
+# Terraform folder
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+.terraform.tfstate.lock.info
+.terraform.tfstate.backup
+
+# Crash logs
+crash.log
+
+# Sensitive keys
+*.pem
+*.key
+*.pub
+
+# Local generated files
+instance_private_ip
+instance_public_ip
+instance_public_dns
+
+# Terraform variable files with secrets
+*.tfvars
+*.tfvars.json
+
+# Terraform lock (optional but mostly commit karte hain)
+.terraform.lock.hcl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# key files
+key-for-wondurlust*
+key-for-wondurlust.pub
+key-for-practice*
+key-for-practice.pub
+instance_private_ip
+instance_public_ip
+instance_public_dns
+key-for-swiggy*
+key-for-swiggy.pub
