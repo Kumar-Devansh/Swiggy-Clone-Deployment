@@ -1,4 +1,4 @@
-# 🍔 Swiggy Application Deployment using Terraform, Jenkins, SonarQube, Trivy & AWS EKS
+<img width="1920" height="1080" alt="Screenshot (621)" src="https://github.com/user-attachments/assets/5c32ca9e-5c78-4b82-9137-b182edc1464c" /># 🍔 Swiggy Application Deployment using Terraform, Jenkins, SonarQube, Trivy & AWS EKS
 
 This project demonstrates a complete **DevOps CI/CD pipeline** for deploying a Swiggy-like application using modern DevOps tools.
 
@@ -242,6 +242,14 @@ http://<EC2-Public-IP>:9000
 SonarQube DashBoard
 ```
 
+📸 Screenshot
+
+<img width="1920" height="1080" alt="Screenshot (620)" src="https://github.com/user-attachments/assets/3633948f-4c47-4f5f-8a46-0461fa97e84e" />
+
+
+```bash
+SonarQube WebSite
+```
 
 ---
 
@@ -294,7 +302,7 @@ kubectl version --client
 
 📸 Screenshot
 
-![Kubectl Installed](screenshots/kubectl-version.png)
+
 
 ---
 
@@ -356,7 +364,8 @@ Cluster creation takes around **10–15 minutes**
 
 📸 Screenshot
 
-![EKS Cluster](screenshots/eks-cluster.png)
+<img width="1920" height="1080" alt="Screenshot (621)" src="https://github.com/user-attachments/assets/6b31f25a-bf20-4bce-99d2-7e43d8bdc12b" />
+
 
 ---
 
