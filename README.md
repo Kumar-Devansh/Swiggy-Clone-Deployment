@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (621)" src="https://github.com/user-attachments/assets/5c32ca9e-5c78-4b82-9137-b182edc1464c" /># 🍔 Swiggy Application Deployment using Terraform, Jenkins, SonarQube, Trivy & AWS EKS
+🍔 Swiggy Application Deployment using Terraform, Jenkins, SonarQube, Trivy & AWS EKS
 
 This project demonstrates a complete **DevOps CI/CD pipeline** for deploying a Swiggy-like application using modern DevOps tools.
 
